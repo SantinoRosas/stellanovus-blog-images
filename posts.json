@@ -1,0 +1,1403 @@
+{
+  "posts": [
+    {
+      "slug": "monthly-cost-keep-business-website-running",
+      "title": "Monthly Cost to Keep a Business Website Running | StellaNovus",
+      "metaDescription": "What it really costs to keep a small business website running every month, from hosting and SSL to AI chat, voice, and Google review automation.",
+      "h1": "The True Monthly Cost of Keeping a Business Website Running",
+      "headline": "The True Monthly Cost of Keeping a Business Website Running",
+      "datePublished": "2026-05-02",
+      "author": "Santino Rosas",
+      "excerpt": "A plain-language breakdown of every monthly cost involved in keeping a business website alive, secure, and generating leads.",
+      "sections": [
+        {
+          "type": "img",
+          "src": "/blog-images/hidden-cost-neglected-website-lost-revenue-stellanovus.webp",
+          "alt": "Infographic showing how a neglected small business website leaks revenue through missed calls, slow load times, visitors leaving, weak reviews, no follow up, and lost jobs by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Most business owners think about the cost of building a website. Very few think about the cost of keeping it alive, secure, and working for their business month after month. That is a mistake that quietly costs thousands of dollars in lost leads every year."
+        },
+        {
+          "type": "p",
+          "text": "The truth is that a website is not a one-time purchase like a sign for your storefront. It is more like a vehicle. You pay to buy it, but you also pay to fuel it, maintain it, insure it, and keep it running safely. The moment you stop maintaining it, things start breaking and in business, a broken website means lost customers."
+        },
+        {
+          "type": "p",
+          "text": "This guide breaks down every cost involved in keeping a business website running, explains what each cost actually does in plain language, and helps you decide which level of investment makes sense for where your business is right now."
+        },
+        {
+          "type": "cta",
+          "headline": "Your Website Should Be Working While You Sleep",
+          "subheadline": "Most small business websites sit there doing nothing after hours. Yours does not have to.",
+          "buttonText": "Get My Free Website Demo"
+        },
+        {
+          "type": "h2",
+          "text": "What Does It Actually Mean to Keep a Website Running?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/what-keeps-your-website-running-stellanovus.webp",
+          "alt": "Infographic showing the four things that keep a business website running including hosting, SSL security, domain name, and performance monitoring by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "When someone says they need to keep their website running, they are talking about several different things happening behind the scenes at the same time. Most people are not aware of any of it because when everything is working correctly, you never notice it. You only notice when something breaks."
+        },
+        {
+          "type": "p",
+          "text": "Here is what is happening behind the scenes every single day your website is live."
+        },
+        {
+          "type": "p",
+          "text": "Web hosting is the foundation. Think of it like renting space on a computer called a server that stays on 24 hours a day, 7 days a week, and stores all the files that make up your website. When someone types your web address into their browser, their phone or computer connects to that server and pulls up your site. Without hosting, your website does not exist on the internet. It is like having a phone with no signal. Technically it exists but nobody can reach you."
+        },
+        {
+          "type": "p",
+          "text": "SSL certification is the security layer that makes your website address start with https instead of http. That little \"s\" stands for secure. It means the connection between your website and your visitor's browser is encrypted, meaning no one can intercept or steal the information being exchanged. If someone fills out a contact form on your site, SSL keeps their name, phone number, and email from being visible to hackers. Without SSL, Google actually flags your site as \"Not Secure\" in the browser which immediately causes visitors to leave before they even read a word about your business."
+        },
+        {
+          "type": "p",
+          "text": "Domain name registration is the annual cost of owning your web address, the part that says .com or .io or .net at the end. Think of it like paying annual rent on a street address. If you stop paying, someone else can take it. Domain names typically cost between $10 and $20 per year through a registrar, though some premium domains cost significantly more."
+        },
+        {
+          "type": "p",
+          "text": "Performance monitoring is an ongoing process where your hosting provider watches how your site is performing, checking load speed, uptime, and whether any errors are occurring. A good monitoring system alerts someone immediately if the site goes down or slows significantly so it can be fixed before your customers notice. Without monitoring, your site could be down for hours or even days without anyone knowing."
+        },
+        {
+          "type": "p",
+          "text": "Understanding these four elements is the foundation. Everything else you pay for monthly builds on top of them."
+        },
+        {
+          "type": "h2",
+          "text": "How Much Does Basic Website Hosting Cost Per Month?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/cheap-hosting-vs-business-class-hosting-stellanovus.webp",
+          "alt": "Comparison infographic showing the difference between budget hosting and business class hosting for small businesses including speed, security, and lead generation features by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Basic website hosting can cost as little as $3 to $15 per month through budget hosting providers. You may have seen ads for companies offering hosting for $2.99 per month. That price sounds attractive but comes with serious limitations that affect your business in ways most people do not realize until it is too late."
+        },
+        {
+          "type": "p",
+          "text": "Budget hosting typically means your website is on a shared server, meaning your site is loaded onto the same computer as hundreds or even thousands of other websites. Imagine renting a desk in a crowded office where everyone shares the same internet connection. When someone else at that desk uses a lot of bandwidth, your connection slows down. The same thing happens with shared hosting. When another website on your server gets a traffic spike or gets attacked by hackers, your site slows down or goes offline entirely even though nothing wrong happened on your end."
+        },
+        {
+          "type": "p",
+          "text": "For a hobby website or a personal blog, shared hosting is fine. For a business that depends on its website to generate phone calls, form submissions, and booked appointments, shared hosting is a liability."
+        },
+        {
+          "type": "p",
+          "text": "Business-class hosting typically runs between $49 and $99 per month and gives your website dedicated resources, faster load times, active security protection, and infrastructure that is built specifically for businesses that cannot afford downtime."
+        },
+        {
+          "type": "p",
+          "text": "At StellaNovus, every client starts with enterprise-grade hosting at $49 per month. This is not the same as what you get from budget providers. This is bank-grade infrastructure that includes everything a professional business website needs to perform reliably and rank well on Google."
+        },
+        {
+          "type": "h2",
+          "text": "What Is a CDN and Why Does It Affect Your Business?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/faster-website-cdn-gets-more-customers-stellanovus.webp",
+          "alt": "Infographic explaining how a content delivery network CDN helps a small business website load faster for visitors across the country improving SEO rankings and lead generation by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "One of the features included in business-class hosting that most people have never heard of is a CDN, which stands for Content Delivery Network. This sounds technical but the concept is simple."
+        },
+        {
+          "type": "p",
+          "text": "Imagine your website's files are stored in one location, say a server in Los Angeles. When someone in Miami visits your site, their request has to travel all the way across the country to pull up your page and then travel back. That distance takes time, and on the internet, even fractions of a second matter."
+        },
+        {
+          "type": "p",
+          "text": "A CDN solves this by storing copies of your website's files on servers all around the world. When someone in Miami visits your site, the CDN automatically serves them a copy from the nearest server, which might be right there in Miami. The page loads almost instantly regardless of where your visitor is located."
+        },
+        {
+          "type": "p",
+          "text": "Why does this matter for your business? Because Google uses page speed as a direct ranking factor. A slow website ranks lower in search results. A lower ranking means fewer people find you. Fewer people finding you means fewer leads and fewer sales. A CDN is one of the most effective ways to improve your site speed without changing anything about your design or content."
+        },
+        {
+          "type": "h2",
+          "text": "What Is DDoS Protection and Does Your Business Website Need It?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/ddos-protection-keeps-business-website-online-stellanovus.webp",
+          "alt": "Infographic showing how DDoS protection and bot traffic blocking keeps a small business website online and accessible to real customers by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "DDoS stands for Distributed Denial of Service, and it is a type of cyberattack where thousands of fake requests are sent to your website all at once with the goal of overwhelming your server and taking your site offline. Think of it like a mob of people all trying to walk through your front door at the same time. Nobody can get in or out."
+        },
+        {
+          "type": "p",
+          "text": "DDoS attacks happen to businesses of all sizes, not just large corporations. A competitor, a bot, or even a random automated script can trigger one. Without protection, your site goes down and stays down until the attack stops or someone manually intervenes."
+        },
+        {
+          "type": "p",
+          "text": "DDoS protection automatically detects this kind of unusual traffic pattern and blocks the fake requests before they reach your server, keeping your site online and accessible to real customers even while an attack is happening. At StellaNovus, DDoS protection is included in every hosting plan from day one."
+        },
+        {
+          "type": "h2",
+          "text": "What Is Auto Caching and How Does It Speed Up Your Website?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/auto-caching-makes-website-load-faster-stellanovus.webp",
+          "alt": "Infographic comparing a website without caching that builds pages from scratch versus a cached website that serves pages instantly to visitors reducing bounce rate by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Auto caching is another feature that sounds complicated but works on a simple principle. Every time a visitor loads your website, the server has to process a set of instructions to build the page and send it to their browser. Caching skips that process for returning visitors by saving a ready-made version of your page the first time it loads and serving that saved version to the next visitor instantly."
+        },
+        {
+          "type": "p",
+          "text": "Think of it like a restaurant that pre-makes their most popular dishes during slow hours so they can serve them instantly during the dinner rush instead of cooking from scratch every time. The food is the same, but the wait time goes from 20 minutes to 2 minutes."
+        },
+        {
+          "type": "p",
+          "text": "For a business website, auto caching means faster load times for every visitor, which means lower bounce rates. Bounce rate is the percentage of visitors who land on your site and leave immediately without clicking anything or reading anything. A high bounce rate usually means your site loaded too slowly or the visitor could not find what they needed fast enough. Google tracks bounce rate as a signal of whether your site is actually useful to visitors. A lower bounce rate generally helps your rankings."
+        },
+        {
+          "type": "h2",
+          "text": "What Does Monthly Website Cost Cover Beyond Hosting?"
+        },
+        {
+          "type": "p",
+          "text": "For most small businesses, monthly website costs fall somewhere between $49 and $297 per month depending on what level of support and technology is included. Here is how to think about each tier."
+        },
+        {
+          "type": "p",
+          "text": "At $49 per month you are covering the foundation. Your site is hosted on enterprise infrastructure, protected from threats, monitored for performance issues, and loading fast for visitors anywhere in the country. This is the right level for a business that has a website primarily for credibility and does not rely heavily on the site for lead generation."
+        },
+        {
+          "type": "p",
+          "text": "At $99 per month you are adding AI chat automation to the foundation. This is where the investment starts working for you beyond just keeping the lights on."
+        },
+        {
+          "type": "h3",
+          "text": "AI Chat and Voice Automation"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/website-captures-leads-24-7-ai-chat-voice-automation-stellanovus.webp",
+          "alt": "Infographic showing how AI chat automation captures website visitor contact information and books appointments and how AI voice automation answers calls qualifies leads and sends follow up texts for small businesses by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "AI chat automation means a software-powered chat agent that lives on your website and automatically greets every visitor the moment they land on your page, answers their questions about your services, captures their contact information including name, phone number, and email, and books appointments directly to your calendar. This happens 24 hours a day including nights, weekends, and holidays without any staff member involved."
+        },
+        {
+          "type": "p",
+          "text": "To put this in perspective, the average business website visitor spends less than 60 seconds on a site before leaving if nothing engages them. Most businesses have no one available to chat with a website visitor at 9pm on a Tuesday. An AI chat agent solves that problem entirely. Every visitor gets an instant, personalized response regardless of what time they show up."
+        },
+        {
+          "type": "p",
+          "text": "At $199 per month you are adding an AI voice agent on top of everything in the $99 plan. This is the level where your front-line operations become fully automated."
+        },
+        {
+          "type": "p",
+          "text": "AI voice automation means every inbound phone call to your business is answered instantly by an AI that sounds natural and human, not like a robotic phone tree from the 1990s. It knows your services, your pricing, your hours, and your availability. It qualifies callers by asking the right follow-up questions to determine if they are serious buyers. It books appointments directly to your calendar and sends an automatic follow-up text after every call to keep the lead warm. And it handles unlimited simultaneous calls meaning if ten people call at the exact same moment, all ten get answered immediately."
+        },
+        {
+          "type": "p",
+          "text": "For a roofing contractor, HVAC company, dental office, or any service business that lives and dies by the phone, this feature alone can pay for itself with a single additional booked job per month."
+        },
+        {
+          "type": "cta",
+          "headline": "Every Missed Call Is a Customer Who Called Your Competitor",
+          "subheadline": "An AI voice agent answers every call instantly, qualifies the lead, and books the appointment automatically.",
+          "buttonText": "See How AI Automation Works"
+        },
+        {
+          "type": "p",
+          "text": "At $297 per month you get everything above plus Google Review Automation, which is the feature with the highest long-term compounding return of any tool on this list."
+        },
+        {
+          "type": "h2",
+          "text": "What Is Reputation Management and Why Does It Matter for a Small Business?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/google-reviews-local-growth-loop-reputation-management-stellanovus.webp",
+          "alt": "Infographic showing how automated Google review requests create a local growth loop that builds trust improves local search rankings and wins more customers for small businesses by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Reputation management is the process of actively building and protecting how your business looks online, specifically through reviews, ratings, and what shows up when someone searches your business name on Google."
+        },
+        {
+          "type": "p",
+          "text": "Here is why it matters more than most business owners realize. When a potential customer finds your business online, the first thing they do before calling you is read your reviews. Studies consistently show that over 90 percent of consumers read online reviews before choosing a local service business. If your competitor has 150 Google reviews averaging 4.8 stars and you have 12 reviews averaging 3.9 stars, most people are calling your competitor, not you, regardless of how good your actual work is."
+        },
+        {
+          "type": "p",
+          "text": "Beyond trust, Google reviews directly affect your local search ranking. Google's algorithm factors in the number of reviews, the average star rating, and how recently reviews were left when deciding which businesses to show first in local search results. A business with more recent positive reviews consistently outranks a business with fewer or older reviews even if the lower-ranked business has been around longer."
+        },
+        {
+          "type": "p",
+          "text": "The problem is that most businesses are terrible at asking for reviews. They rely on happy customers to leave them voluntarily, which almost never happens. Happy customers move on with their lives. Unhappy customers are motivated to tell everyone."
+        },
+        {
+          "type": "p",
+          "text": "Google Review Automation through StellaNovus solves this by automatically sending a review request to every customer after every completed job via SMS text message and email. The message contains a direct one-tap link that takes the customer straight to your Google review page. No searching, no logging in, no extra steps. One tap and they are leaving a five-star review."
+        },
+        {
+          "type": "p",
+          "text": "Over time, this compounds. A business that generates five new Google reviews per week has over 250 new reviews by the end of the year. That business ranks higher in local search, gets called more often, closes more jobs, and earns more reviews from those jobs. It is a growth loop that runs on autopilot."
+        },
+        {
+          "type": "h2",
+          "text": "Does Website Running Cost Include Security Updates and Maintenance?"
+        },
+        {
+          "type": "p",
+          "text": "Some hosting providers charge separately for ongoing maintenance tasks like security patches, software updates, and performance optimization. These are not optional. An outdated website is a vulnerable website, and a vulnerable website is a liability."
+        },
+        {
+          "type": "p",
+          "text": "At StellaNovus, ongoing performance monitoring and optimization is included in every hosting tier. You are never hit with a surprise invoice because something needed to be updated or fixed."
+        },
+        {
+          "type": "h2",
+          "text": "What Is the Real Cost of Not Investing in Your Website?"
+        },
+        {
+          "type": "p",
+          "text": "The monthly fee to keep your website running is not just a cost. It is protection against losses that are invisible because they are things that never happened. Every missed call that went to voicemail at 8pm is a lead that called your competitor next. Every website visitor who left after 30 seconds because no one greeted them is a job that went somewhere else. Every customer who chose a competitor because they had 200 Google reviews and you had 14 is revenue that left your market permanently."
+        },
+        {
+          "type": "p",
+          "text": "These losses do not show up on an invoice. They show up as flat months, slow seasons, and the quiet frustration of knowing your phone should be ringing more than it is."
+        },
+        {
+          "type": "h2",
+          "text": "What Should a Small Business Budget for Monthly Website Running Costs?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/small-business-monthly-website-budget-breakdown-stellanovus.webp",
+          "alt": "Infographic showing what a small business should budget monthly for website costs ranging from 49 dollars for foundation hosting to 297 dollars for full AI automation and Google review management by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Here is a straightforward summary based on where your business is right now."
+        },
+        {
+          "type": "p",
+          "text": "If you need a professional online presence with fast, secure, enterprise-grade hosting, start at $49 per month."
+        },
+        {
+          "type": "p",
+          "text": "If you want your website to capture leads and book appointments around the clock without adding staff, move to $99 per month and add the AI chat agent."
+        },
+        {
+          "type": "p",
+          "text": "If your business depends heavily on inbound phone calls and you want every call answered instantly and automatically, invest in the $199 per month plan with the AI voice agent included."
+        },
+        {
+          "type": "p",
+          "text": "If you want the full system including automated Google review building that compounds your local search rankings month after month, the $297 per month plan is the highest-ROI investment available for a local service business."
+        },
+        {
+          "type": "pEmphasis",
+          "text": "The right answer depends on how aggressively you want your website working for you while you sleep."
+        },
+        {
+          "type": "ctaButton",
+          "text": "Claim My Free Demo Today"
+        },
+        {
+          "type": "cta",
+          "headline": "Ready to Stop Losing Leads Every Month?",
+          "subheadline": "Get a professional website with enterprise hosting and AI automation built in from day one.",
+          "buttonText": "Claim My Free Demo Today"
+        }
+      ]
+    },
+    {
+      "slug": "how-much-does-website-cost-to-run-small-business",
+      "title": "How Much Does a Website Cost to Run for a Small Business? | StellaNovus",
+      "metaDescription": "A clear monthly breakdown of what a small business website actually costs to run, from hosting and SSL to maintenance, security, backups, and AI tools.",
+      "h1": "How Much Does a Website Cost to Run for a Small Business?",
+      "headline": "How Much Does a Website Cost to Run for a Small Business?",
+      "datePublished": "2026-05-03",
+      "author": "Santino Rosas",
+      "excerpt": "Every monthly cost involved in running a small business website explained in plain language, plus what happens when you cut corners on the ones that matter.",
+      "sections": [
+        {
+          "type": "img",
+          "src": "/blog-images/true-monthly-cost-running-small-business-website-stellanovus.webp",
+          "alt": "Infographic showing the true monthly cost of running a small business website broken down by hosting, maintenance, security, content, and support tiers by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "If you have a website, or you are thinking about building one, you have probably wondered what it is actually going to cost you every single month. Not just to build it, but to keep it alive, secure, and working. The answer is not one number. It is a stack of numbers, and if no one has walked you through them clearly, you might be paying too much, getting too little, or about to get blindsided by a bill you did not see coming."
+        },
+        {
+          "type": "p",
+          "text": "Website running costs for small businesses typically range from $50 a month on the low end to $500 a month or more depending on what your site needs to do. That is a wide range, and the difference between those two numbers is enormous in terms of what you get, what you risk, and what your website can actually do for your business."
+        },
+        {
+          "type": "p",
+          "text": "This post will walk you through every layer of cost, why each one matters, and what happens to businesses that try to cut corners on the ones that count."
+        },
+        {
+          "type": "cta",
+          "headline": "Don't Let Hidden Costs Eat Your Budget",
+          "subheadline": "Find out exactly what your website should cost and where you might be overpaying right now.",
+          "buttonText": "Get My Free Website Cost Audit"
+        },
+        {
+          "type": "h2",
+          "text": "What Does It Actually Mean to Run a Website?"
+        },
+        {
+          "type": "p",
+          "text": "Most business owners think of their website as something they built once and now it just exists. That is like thinking your car runs itself because you paid for it when you drove it off the lot. A website is a living piece of software sitting on rented computer space, connected to the internet 24 hours a day, seven days a week."
+        },
+        {
+          "type": "p",
+          "text": "Running a website means paying for the space it lives on, the security that keeps hackers out, the software updates that keep it functioning correctly, and the tools that help it actually earn you business instead of just sitting there looking pretty."
+        },
+        {
+          "type": "p",
+          "text": "When you understand it this way, the costs make a lot more sense, because every dollar has a job."
+        },
+        {
+          "type": "h2",
+          "text": "How Much Does Web Hosting Cost for a Small Business?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/shared-vs-managed-vs-dedicated-hosting-comparison-stellanovus.webp",
+          "alt": "Comparison infographic showing shared hosting versus managed hosting versus dedicated hosting for small business websites with monthly cost ranges and use cases by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Web hosting is the foundation of every website running cost conversation. It is the rent you pay for the server space where your website lives. When someone types your web address into their browser, your hosting provider is what delivers your site to their screen."
+        },
+        {
+          "type": "p",
+          "text": "Shared hosting, the cheapest option, runs between $5 and $25 a month. It is called shared because your website shares a server with hundreds or even thousands of other websites. Think of it like renting a room in a house with dozens of roommates. It is affordable, but when one roommate throws a party and maxes out the kitchen, everyone feels it. If a neighbor site gets a traffic spike or gets hacked, your site slows down or goes offline with it."
+        },
+        {
+          "type": "p",
+          "text": "Managed hosting or VPS hosting (Virtual Private Server) is the next tier, typically running $30 to $100 a month. This is more like having your own apartment in a large building. You share the building infrastructure, but your space is yours. Performance is more consistent, security is better, and you have more control."
+        },
+        {
+          "type": "p",
+          "text": "Dedicated or cloud hosting runs $100 to $400 or more per month and is most relevant for businesses with high traffic, e-commerce stores processing real transactions, or websites where downtime would directly cost revenue. This is your own house on its own lot."
+        },
+        {
+          "type": "p",
+          "text": "For most small businesses getting started or at an early growth stage, a quality managed hosting plan between $30 and $80 a month is the sweet spot. The businesses that lose sleep over their websites are almost always the ones who went cheap on hosting and then spent far more in lost business and emergency fixes later."
+        },
+        {
+          "type": "h2",
+          "text": "What Are SSL Certificates and Do You Really Need One?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/is-your-website-secure-checklist-stellanovus.webp",
+          "alt": "Simple website security checklist infographic showing SSL certificate, software updates, backups, firewall, and login protection for small business websites by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "If your website address starts with http instead of https, Google is flagging your site to every visitor as potentially unsafe. The S stands for secure, and it is there because of something called an SSL certificate, which encrypts the connection between your website and whoever is visiting it."
+        },
+        {
+          "type": "p",
+          "text": "Think of it like a sealed envelope versus a postcard. Without SSL, anything a visitor types into your website, including contact form information, names, email addresses, and especially payment details, travels across the internet like a postcard anyone can read. With SSL, it travels sealed."
+        },
+        {
+          "type": "p",
+          "text": "Google actively penalizes websites without SSL in search rankings. Browsers like Chrome display a Not Secure warning to visitors. If your site does not have an SSL certificate installed and actively maintained, you are losing both trust and search visibility every single day."
+        },
+        {
+          "type": "p",
+          "text": "The good news is that SSL certificates are often included in quality hosting plans. If yours is not, standalone certificates run $0 to $200 per year depending on the level of validation you need. Most small business websites do fine with a standard domain-validated certificate, which many hosting providers include at no extra charge."
+        },
+        {
+          "type": "p",
+          "text": "Do not skip this. It is not optional."
+        },
+        {
+          "type": "h2",
+          "text": "Why Website Maintenance Is the Cost That Catches Business Owners Off Guard"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/what-happens-when-you-skip-website-maintenance-stellanovus.webp",
+          "alt": "Timeline infographic showing what happens when small businesses skip website maintenance from outdated plugins at three months to being blacklisted by Google at twelve months by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Here is the one that surprises people the most. Your website is built on software, and software changes. The platforms most small business websites run on, particularly WordPress and similar content management systems, release regular updates. So do the plugins and themes built on top of them."
+        },
+        {
+          "type": "p",
+          "text": "When you ignore those updates, you are not just missing new features. You are leaving the front door of your website unlocked. Hackers do not personally target small businesses. They run automated scripts that scan millions of websites looking for known vulnerabilities in outdated software. If your site has an unpatched plugin from six months ago, those scripts will find it, and they will use it."
+        },
+        {
+          "type": "p",
+          "text": "Website maintenance services typically run $75 to $300 per month for a small business site. What that covers is regular software updates, database optimization, uptime monitoring, and periodic backups so that if something does go wrong, your site can be restored in hours rather than rebuilt from scratch."
+        },
+        {
+          "type": "p",
+          "text": "The businesses that say they will do the updates themselves are usually the ones who update things once and then forget for six months. That is not maintenance. That is neglect wearing a productive hat."
+        },
+        {
+          "type": "p",
+          "text": "If your current setup does not include someone responsible for maintenance on a schedule, that is a risk sitting on your monthly balance sheet whether you can see it or not."
+        },
+        {
+          "type": "cta",
+          "headline": "Your Website Is a Security Risk Right Now and You May Not Know It",
+          "subheadline": "One unpatched plugin is all a hacker needs. Find out where your site stands before it costs you everything.",
+          "buttonText": "See How This Works for My Business"
+        },
+        {
+          "type": "h2",
+          "text": "What Does Website Security Actually Cost, and What Happens If You Skip It?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/real-cost-hacked-website-vs-prevention-stellanovus.webp",
+          "alt": "Side by side infographic comparing the cost of a hacked website cleanup versus the monthly cost of prevention through security monitoring, backups, updates, and firewall protection by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "Website security is not the same thing as having an SSL certificate, even though many business owners assume it is. SSL handles the encryption of data in transit. Security handles the protection of your website itself, including its files, its database, and the accounts that have access to it."
+        },
+        {
+          "type": "p",
+          "text": "A comprehensive security setup for a small business website typically includes a web application firewall, malware scanning, login protection, and activity monitoring. These tools watch your site the way a security camera watches a parking lot: constantly, automatically, and without needing a human to stare at a screen."
+        },
+        {
+          "type": "p",
+          "text": "Security services in this category run $20 to $100 per month depending on the platform and the level of protection. Some hosting providers bundle basic versions of these tools into higher-tier plans. Others leave it entirely up to you."
+        },
+        {
+          "type": "p",
+          "text": "The cost of not having security is not theoretical. A hacked website can be blacklisted by Google, meaning it disappears from search results entirely. It can be used to send spam email to thousands of people under your business name. Customer data can be stolen. Your hosting provider can suspend your account for violating their terms by running malicious code, even if you did not put it there."
+        },
+        {
+          "type": "p",
+          "text": "Recovering from a serious hack costs $300 to $3,000 or more in professional cleanup services, lost traffic, lost leads, and reputation damage that does not show up on any invoice. The security service that costs $50 a month starts looking pretty reasonable in that light."
+        },
+        {
+          "type": "h2",
+          "text": "How Much Should You Budget for a Domain Name?"
+        },
+        {
+          "type": "p",
+          "text": "Your domain name, the web address people use to find you, is one of the most affordable pieces of the puzzle. Standard .com domains run $10 to $20 per year through registrars like Namecheap, GoDaddy, or Google Domains."
+        },
+        {
+          "type": "p",
+          "text": "Premium or previously-owned domain names can cost far more, sometimes thousands of dollars, but for most small businesses registering a new domain for the first time, you are looking at $15 a year as a reliable estimate."
+        },
+        {
+          "type": "p",
+          "text": "The catch here is auto-renewal. Many business owners set up their domain name once, forget about it, and then lose their domain when the credit card on file expires or they miss the renewal email. Losing your domain name means losing your website address, your email address, and years of SEO equity built up under that name. Set calendar reminders. Keep your payment information current. Treat your domain like the business asset it is."
+        },
+        {
+          "type": "h2",
+          "text": "What Do Website Backups Cost and Why Are They Non-Negotiable?"
+        },
+        {
+          "type": "p",
+          "text": "Website backups are your insurance policy. If something goes wrong, whether it is a hack, a failed update, an accidental deletion, or a hosting server failure, a recent backup is the difference between a two-hour fix and starting over from scratch."
+        },
+        {
+          "type": "p",
+          "text": "Many businesses assume their hosting provider handles backups automatically. Some do. Many do not. And of those that do, some only keep backups for 7 days, meaning if you do not notice a problem until day 10, you are recovering from a version of your site that might have the same vulnerability that caused the problem."
+        },
+        {
+          "type": "p",
+          "text": "Dedicated backup services run $5 to $30 per month and offer more control, more history, and off-site storage so your backups are not sitting on the same server as your website. Think of it like making a copy of your most important business documents and keeping one copy at home and one copy at the office."
+        },
+        {
+          "type": "p",
+          "text": "For businesses that process any kind of transaction, capture any kind of customer data, or rely on their website for leads, a real backup solution is not optional. It is table stakes."
+        },
+        {
+          "type": "h2",
+          "text": "What Are AI Tools for Small Business Websites and What Do They Cost?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/ai-tools-small-business-websites-2025-stellanovus.webp",
+          "alt": "Infographic showing what AI tools are adding to small business websites in 2025 including AI chatbot, AI content tool, and AI SEO analyzer with monthly cost ranges by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "This is the layer that has changed the most in the last two years. AI tools for websites now include everything from chatbots that answer customer questions around the clock to content generation assistants, automated SEO analyzers, and smart personalization engines that change what a visitor sees based on how they found your site."
+        },
+        {
+          "type": "p",
+          "text": "The businesses growing fastest right now are not just using their websites as digital brochures. They are using AI-powered tools to capture leads they would have otherwise lost, answer questions at 2 a.m. when no one is in the office, and create content at a pace that would take a full-time employee to match manually."
+        },
+        {
+          "type": "p",
+          "text": "AI chatbot tools typically run $30 to $150 per month depending on the platform and the volume of conversations handled. AI content and SEO tools run $50 to $200 per month. Some all-in-one platforms are starting to bundle these tools into higher-tier plans."
+        },
+        {
+          "type": "p",
+          "text": "The businesses that will look back on 2024 and 2025 as a turning point in their growth are the ones that started incorporating these tools now, while the bar is still accessible. Waiting until every competitor has already done it does not put you ahead. It just means you are catching up at a higher cost."
+        },
+        {
+          "type": "h2",
+          "text": "What Does a Full Website Management Package Actually Cost?"
+        },
+        {
+          "type": "p",
+          "text": "When you add up hosting, security, maintenance, backups, SSL, domain, and AI tools, you are looking at a realistic monthly spend of $150 to $500 for a professionally managed small business website. Here is how that breaks down by tier."
+        },
+        {
+          "type": "p",
+          "text": "At the entry level, roughly $75 to $150 per month, you get quality shared or managed hosting, SSL, automated backups, basic security scanning, and a domain name. This is the minimum that any small business website should be running on. It covers you against the most common threats and keeps your site reliably online."
+        },
+        {
+          "type": "p",
+          "text": "At the mid-level, roughly $150 to $300 per month, you add managed maintenance with a real person responsible for updates and monitoring, more robust security with a web application firewall, performance optimization, and basic reporting on how your site is performing in search."
+        },
+        {
+          "type": "p",
+          "text": "At the full-service level, $300 to $500 per month and above, you are getting all of the above plus active SEO management, AI chatbot integration, content updates, and dedicated support that treats your website like the business asset it is."
+        },
+        {
+          "type": "p",
+          "text": "Every level has businesses that belong there. The mistake is paying entry-level rates and expecting full-service results, or paying for a full-service package without understanding what you are getting."
+        },
+        {
+          "type": "h2",
+          "text": "What Separates a Good Website Service Provider from One That Will Cost You More Later?"
+        },
+        {
+          "type": "img",
+          "src": "/blog-images/how-to-choose-website-service-provider-stellanovus.webp",
+          "alt": "Infographic comparing signs of a good website service provider versus red flags to avoid when choosing who manages your small business website by StellaNovus"
+        },
+        {
+          "type": "p",
+          "text": "The business owners who end up frustrated, overpaying, or dealing with emergencies are almost always the ones who chose their website provider based on price alone. Here is what to look for instead."
+        },
+        {
+          "type": "p",
+          "text": "A good provider gives you clear, itemized billing so you know exactly what you are paying for each month. A bad one gives you one number and a vague description of services."
+        },
+        {
+          "type": "p",
+          "text": "A good provider monitors your site proactively and tells you when something needs attention before it becomes a problem. A bad one waits for you to call and report an issue."
+        },
+        {
+          "type": "p",
+          "text": "A good provider can explain what they do in plain language and show you reports that prove it. A bad one talks in jargon and gets defensive when you ask questions."
+        },
+        {
+          "type": "p",
+          "text": "A good provider keeps your website updated on a documented schedule with records you can access. A bad one makes updates when they remember or when you remind them."
+        },
+        {
+          "type": "p",
+          "text": "Ask any provider you are considering: how will you show me what you are doing each month? If the answer is vague, keep looking."
+        },
+        {
+          "type": "h2",
+          "text": "What Should You Do Right Now?"
+        },
+        {
+          "type": "p",
+          "text": "If you have made it this far, you are the kind of business owner who takes this seriously, and that already puts you ahead of most people."
+        },
+        {
+          "type": "p",
+          "text": "Here is what to do in the next 48 hours. First, find out if your website has an SSL certificate installed and working. You can check by looking at your web address in a browser. If it starts with https and there is a padlock icon, you are covered. If not, fix this today."
+        },
+        {
+          "type": "p",
+          "text": "Second, find out when your website software, plugins, and themes were last updated. If the answer is you are not sure or a long time ago, your site has open vulnerabilities right now."
+        },
+        {
+          "type": "p",
+          "text": "Third, find out if you have backups running and how recent the most recent one is. Log into your hosting account or ask your current provider. I think so is not good enough."
+        },
+        {
+          "type": "p",
+          "text": "Fourth, add up what you are currently paying across all the pieces and compare it to what you are actually getting. Many business owners discover they are either dramatically underprotected or paying for things they do not use or need."
+        },
+        {
+          "type": "pEmphasis",
+          "text": "The businesses that grow online are not the ones with the biggest budgets. They are the ones who treat their website as a real business asset, protect it accordingly, and make smart decisions about where to invest for growth."
+        },
+        {
+          "type": "ctaButton",
+          "text": "Claim My Free Website Audit Today"
+        },
+        {
+          "type": "cta",
+          "headline": "Stop Guessing What Your Website Is Costing You",
+          "subheadline": "Get a clear picture of every dollar you are spending and every risk you are carrying, and find out exactly what needs to change.",
+          "buttonText": "Claim My Free Website Audit Today"
+        }
+      ]
+    },
+    {
+      "slug": "ai-receptionist-website-downtime",
+      "title": "How Can an AI Receptionist Handle Unexpected Website Downtime Effectively?",
+      "metaDescription": "Discover how an AI receptionist can expertly manage unexpected website downtime, maintaining customer communication and minimizing disruption for your business.",
+      "h1": "How Can an AI Receptionist Handle Unexpected Website Downtime Effectively?",
+      "headline": "How Can an AI Receptionist Handle Unexpected Website Downtime Effectively?",
+      "datePublished": "2026-05-09",
+      "author": "StellaNovus Team",
+      "excerpt": "Unexpected website downtime can be a nightmare for businesses. Learn how an AI receptionist can become your first line of defense, ensuring business continuity and customer satisfaction.",
+      "sections": [
+        {
+          "type": "img",
+          "src": "https://cdn.jsdelivr.net/gh/SantinoRosas/stellanovus-blog-images@main/ai-receptionist-website-downtime-hero.webp",
+          "alt": "Line-art illustration: How Can an AI Receptionist Handle Unexpected Website Downtime Effectively?"
+        },
+        {
+          "type": "p",
+          "text": "Imagine this: your website, the digital storefront you've poured your heart and soul into, suddenly goes dark. Your carefully crafted online presence, your lead generation machine, all of it, vanishes in an instant. Panic sets in, and you're left scrambling, wondering how many potential customers you're losing right now."
+        },
+        {
+          "type": "pEmphasis",
+          "text": "This isn't just a bad dream, it's a very real, very costly problem many businesses face, and it's silently eroding your bottom line."
+        },
+        {
+          "type": "p",
+          "text": "The truth is, unexpected website downtime isn't a matter of if, but when. It's an inevitable hurdle in the digital landscape, and for businesses like yours, every minute your site is down translates directly into missed opportunities and frustrated clients. You're not just losing sales, you're losing trust, and that's far more damaging in the long run."
+        },
+        {
+          "type": "p",
+          "text": "You've worked tirelessly to build your brand, and a sudden outage can feel like a betrayal of that effort. You deserve a proven solution, a guaranteed safeguard that keeps your business running smoothly, even when the unexpected strikes. Stop losing money and reputation to unforeseen technical glitches."
+        },
+        {
+          "type": "p",
+          "text": "But what if there was a way to not only mitigate the damage but actually turn a crisis into an opportunity to strengthen customer relationships? What if you could have a tireless, intelligent assistant working 24/7, ready to handle every inquiry, even when your website is completely offline? This isn't science fiction, it's the power of an AI receptionist, and it's poised to revolutionize how you manage website downtime."
+        },
+        {
+          "type": "cta",
+          "headline": "It's Time to Get Serious About Your Business",
+          "subheadline": "AI Voice Agent: Free 14-Day Trial. No CC Needed. Custom Built for Your Company. Any Niche.",
+          "buttonText": "Start My Free Trial",
+          "href": "https://stellanovus.io/contact"
+        },
+        {
+          "type": "cta",
+          "headline": "No Website? Let Us Show You What We Do",
+          "subheadline": "Get Your Custom Website Demo Built Free. No CC Needed. No Obligation.",
+          "buttonText": "Get My Free Demo",
+          "href": "https://stellanovus.io/contact"
+        },
+        {
+          "type": "h2",
+          "text": "What is Website Downtime and Why is it Critical to Manage?"
+        },
+        {
+          "type": "p",
+          "text": "Imagine your physical store suddenly locking its doors with no explanation. That's essentially what website downtime means for your online business. It refers to any period when your website is inaccessible to users, preventing them from browsing, buying, or even learning about your services. This isn't just an inconvenience, it's a direct assault on your bottom line and your brand's reputation."
+        },
+        {
+          "type": "p",
+          "text": "Ignoring website downtime is like leaving money on the table, or worse, actively pushing customers away. Understanding its nature and impact is the first step in safeguarding your digital presence and ensuring your business thrives online. It's a critical aspect of managing your online operations."
+        },
+        {
+          "type": "h3",
+          "text": "Defining Different Types of Downtime: Planned vs. Unplanned"
+        },
+        {
+          "type": "p",
+          "text": "Not all downtime is created equal. There are two main categories you need to be aware of: planned and unplanned. Knowing the difference helps you prepare and react effectively, minimizing potential damage to your business."
+        },
+        {
+          "type": "h4",
+          "text": "Planned Downtime: Necessary Maintenance for a Stronger Site"
+        },
+        {
+          "type": "p",
+          "text": "Planned downtime is scheduled in advance for essential maintenance, updates, or upgrades. Think of it like closing your store for a few hours to restock shelves or perform a deep clean. While it temporarily makes your site unavailable, it\u2019s a proactive step to improve performance, security, and user experience."
+        },
+        {
+          "type": "p",
+          "text": "You can communicate these periods to your customers beforehand, setting expectations and avoiding frustration. This transparency builds trust and shows you're committed to providing a better service in the long run."
+        },
+        {
+          "type": "h4",
+          "text": "Unplanned Downtime: The Silent Killer of Business Growth"
+        },
+        {
+          "type": "p",
+          "text": "Unplanned downtime is the real nightmare scenario. It's sudden, unexpected, and often catastrophic. These outages can stem from a variety of insidious problems, hitting your business when you least expect it."
+        },
+        {
+          "type": "p",
+          "text": "Common culprits include server issues, which can crash your entire operation, or even more sinister threats like cyberattacks. Malicious coding errors can also bring your site to a grinding halt, leaving you scrambling to fix the problem."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Server failures: Your website's host experiences an issue.",
+            "Cyberattacks: Hackers try to take down or compromise your site.",
+            "Coding errors: Mistakes in your website's code cause it to malfunction.",
+            "Traffic surges: Unexpected high traffic overwhelms your server.",
+            "DNS problems: Issues with how your domain name is translated."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "The Financial and Reputational Costs of Outages"
+        },
+        {
+          "type": "p",
+          "text": "The immediate impact of unplanned downtime is often financial. Every minute your site is down, you're losing potential sales and revenue. For an e-commerce business, this can quickly translate into thousands, or even millions, of dollars slipping through your fingers. A single hour of downtime can cost small to mid-sized businesses an average of $8,000, while large enterprises can lose over $700,000, according to ITIC's 2022 survey."
+        },
+        {
+          "type": "p",
+          "text": "Beyond the direct financial hit, there's a more insidious cost: your brand's reputation. Frequent outages signal unreliability, damaging your credibility and making customers question your professionalism. This can lead to a significant loss of trust that's incredibly difficult, and expensive, to rebuild."
+        },
+        {
+          "type": "h3",
+          "text": "Impact on Customer Experience and Trust"
+        },
+        {
+          "type": "p",
+          "text": "Think about your own experience. How do you feel when you try to access a website only to find it unresponsive? Frustrated, annoyed, and likely to look elsewhere, right? That's precisely how your customers feel when your site goes down. It creates a negative customer experience that drives them directly to your competitors."
+        },
+        {
+          "type": "p",
+          "text": "This erosion of trust is perhaps the most damaging long-term consequence. If customers can't rely on your website to be available when they need it, they'll simply stop trying. This jeopardizes customer loyalty and makes it harder for your business to grow. Managing downtime isn't just about technical fixes; it's about protecting your relationships with your most valuable asset: your customers. This is where a solution like how an AI receptionist can handle unexpected website downtime becomes absolutely crucial for your business's survival and growth."
+        },
+        {
+          "type": "h2",
+          "text": "How Does an AI Receptionist Detect Website Downtime?"
+        },
+        {
+          "type": "p",
+          "text": "Imagine your website suddenly goes dark. Every minute it's down, you're losing potential customers and damaging your brand's reputation. This is where an AI receptionist becomes your ultimate safeguard, proactively identifying and alerting you to website issues before they escalate into catastrophic failures. But how can an AI receptionist handle unexpected website downtime so effectively?"
+        },
+        {
+          "type": "p",
+          "text": "It\u2019s not magic, it\u2019s smart integration and constant vigilance. Your AI receptionist acts like a digital watchdog, always on patrol to ensure your online presence remains robust and accessible. This immediate detection is crucial for maintaining business continuity and customer trust."
+        },
+        {
+          "type": "h3",
+          "text": "Integrating with Website Monitoring Tools"
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist isn't an island; it's part of a powerful ecosystem. It can seamlessly connect with industry-leading website monitoring tools, creating a unified defense against downtime. This integration provides an unparalleled level of oversight."
+        },
+        {
+          "type": "h4",
+          "text": "Key points to include: AI receptionists can integrate with tools like UptimeRobot or Pingdom."
+        },
+        {
+          "type": "p",
+          "text": "Think of popular services like UptimeRobot or Pingdom. Your AI receptionist can directly tap into their data feeds. When these tools detect an issue, your AI isn't just informed, it's empowered to act instantly."
+        },
+        {
+          "type": "p",
+          "text": "This powerful synergy means you get a comprehensive, real-time overview of your website's health without lifting a finger. It's a proactive approach that prevents minor glitches from becoming major headaches, saving you countless hours and potential revenue."
+        },
+        {
+          "type": "h3",
+          "text": "Proactive Ping Checks and Status Updates"
+        },
+        {
+          "type": "p",
+          "text": "Beyond integration, your AI receptionist performs its own independent checks. It's like having a dedicated IT team constantly verifying your website's availability, ensuring nothing slips through the cracks. This relentless vigilance is your secret weapon against unexpected outages."
+        },
+        {
+          "type": "h4",
+          "text": "Key points to include: They can perform automated checks to verify website accessibility."
+        },
+        {
+          "type": "p",
+          "text": "Your AI performs automated 'ping' checks. These are quick tests to see if your website is responding, much like knocking on a door to see if anyone's home. If there's no response, it immediately flags a potential problem."
+        },
+        {
+          "type": "p",
+          "text": "These checks happen around the clock, 24/7. This means even if your IT team is asleep, your AI is wide awake, protecting your online business. A recent study showed that 75% of users will abandon a website if it takes longer than 3 seconds to load, highlighting the critical need for constant availability."
+        },
+        {
+          "type": "h3",
+          "text": "Leveraging API Integrations for Real-time Alerts"
+        },
+        {
+          "type": "p",
+          "text": "The true power of an AI receptionist in downtime detection lies in its ability to generate immediate, actionable alerts. This isn't just about knowing there's a problem, it's about getting the right information to the right people, right now. Imagine the catastrophic consequences of delayed notifications."
+        },
+        {
+          "type": "h4",
+          "text": "Key points to include: Real-time alerts allow for immediate response to downtime events."
+        },
+        {
+          "type": "p",
+          "text": "Through sophisticated API integrations, your AI receptionist can send real-time alerts to your team. These aren't just generic messages; they're precise notifications delivered directly to the individuals responsible for resolution. This swift communication prevents financial losses and preserves your brand's integrity."
+        },
+        {
+          "type": "p",
+          "text": "This means your IT department, web development agency, or even you, can be notified within moments of an issue arising. This rapid response capability dramatically reduces downtime, minimizing any negative impact on your customers and your bottom line. Don't let a preventable outage cost you a fortune."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Instant notification via email or SMS.",
+            "Automated creation of support tickets in your system.",
+            "Direct communication to relevant team members.",
+            "Logs of incident details for post-mortem analysis.",
+            "Escalation procedures for unresolved issues."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "What Immediate Actions Can an AI Receptionist Take During an Outage?"
+        },
+        {
+          "type": "img",
+          "src": "https://cdn.jsdelivr.net/gh/SantinoRosas/stellanovus-blog-images@main/ai-receptionist-website-downtime-diagram.webp",
+          "alt": "Line-art illustration: How Can an AI Receptionist Handle Unexpected Website Downtime Effectively?"
+        },
+        {
+          "type": "p",
+          "text": "Imagine this nightmare scenario: your website goes down. Every second your site is offline, you're losing potential customers and revenue. But what if you had a secret weapon, an AI receptionist, ready to jump into action? This isn't just about handling calls, it's about minimizing the disaster and protecting your brand when your digital storefront is unexpectedly closed."
+        },
+        {
+          "type": "p",
+          "text": "An AI receptionist is your first line of defense against the chaos of unexpected website downtime. It acts swiftly, intelligently, and tirelessly to keep your business moving forward, even when your main platform isn't. This proactive approach can save you from significant financial losses and reputational damage."
+        },
+        {
+          "type": "h3",
+          "text": "Automatic Redirection to Backup Resources"
+        },
+        {
+          "type": "p",
+          "text": "When your website crashes, your AI receptionist doesn't just sit there. It immediately diverts traffic to alternative, pre-approved resources. This ensures that visitors aren't met with a frustrating error page, but instead find helpful information or another way to connect with you."
+        },
+        {
+          "type": "h4",
+          "text": "Redirect Users to a Temporary Landing Page or Social Media"
+        },
+        {
+          "type": "p",
+          "text": "Your AI can instantly redirect website visitors to a temporary landing page specifically designed for outages. This page can host essential information, explain the situation, and offer alternative ways to engage with your business. Alternatively, it can guide users to your active social media channels where you're providing real-time updates."
+        },
+        {
+          "type": "p",
+          "text": "Think of it as setting up a detour sign when the main road is closed. You're not leaving your customers stranded, you're guiding them to a safe and informative alternative. This quick action prevents frustration and shows your customers that you're prepared for anything."
+        },
+        {
+          "type": "h3",
+          "text": "Pre-scripted Messaging for Website Visitors"
+        },
+        {
+          "type": "p",
+          "text": "Transparency is key during an outage. Your AI receptionist can deploy pre-written messages that are both informative and empathetic. This prevents panic and keeps your customers in the loop, maintaining their trust even when things go wrong."
+        },
+        {
+          "type": "h4",
+          "text": "Display Clear, Empathetic Messages Explaining the Situation"
+        },
+        {
+          "type": "p",
+          "text": "The AI can instantly display pop-ups or banners on affected pages, letting visitors know about the downtime. These messages are crafted to be understanding and reassuring, explaining that your team is actively working to resolve the issue. A study by Statista in 2023 showed that 70% of customers expect quick responses and clear communication during service disruptions, highlighting the critical role of these immediate messages."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Acknowledge the inconvenience directly.",
+            "State that your team is aware and working on a fix.",
+            "Provide an estimated time for resolution, if possible.",
+            "Offer apologies for any disruption caused.",
+            "Reassure customers that their needs are still a priority."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This immediate communication avoids the dreaded silence that can make customers feel ignored and frustrated. Your AI receptionist speaks for your brand, even when your website can't."
+        },
+        {
+          "type": "h3",
+          "text": "Collecting Contact Information for Follow-up"
+        },
+        {
+          "type": "p",
+          "text": "Even with redirection and clear messaging, some visitors will still have urgent needs or want to be notified when service is restored. Your AI receptionist is designed to capture these crucial leads and ensure no opportunity is lost during downtime."
+        },
+        {
+          "type": "h4",
+          "text": "Offer Options for Users to Leave Their Email or Phone for Updates"
+        },
+        {
+          "type": "p",
+          "text": "On the temporary landing page or within the outage message, your AI can present a simple form. This allows visitors to easily leave their email address or phone number. Once your website is back online, you can then send automated notifications, turning a potential loss into a positive customer interaction."
+        },
+        {
+          "type": "p",
+          "text": "Imagine the power of turning a moment of frustration into a lead generation opportunity. This proactive data collection ensures that you can re-engage with interested parties as soon as your services are restored, effectively mitigating the negative impact of the outage on your sales pipeline. Don't let an unexpected outage become a permanent loss of valuable customer connections."
+        },
+        {
+          "type": "h2",
+          "text": "How Can an AI Receptionist Maintain Customer Communication During Downtime?"
+        },
+        {
+          "type": "p",
+          "text": "Unexpected website downtime can feel like a disaster for your business. It's a critical moment where customer trust hangs in the balance. But what if you had a secret weapon, an AI receptionist, ready to flawlessly bridge the communication gap? This isn't just about answering calls, it's about proactively managing expectations and safeguarding your reputation."
+        },
+        {
+          "type": "p",
+          "text": "A well-deployed AI receptionist transforms a potential crisis into an opportunity to showcase your commitment to customer service. It ensures that even when your website is down, your customers feel heard, informed, and valued. This proactive approach prevents frustration and keeps your clients engaged, proving how an AI receptionist can handle unexpected website downtime with grace."
+        },
+        {
+          "type": "h3",
+          "text": "Providing Alternative Contact Methods (Phone, Email, Social Media)"
+        },
+        {
+          "type": "p",
+          "text": "When your website goes dark, customers need immediate alternatives. Your AI receptionist can instantly guide them to other reliable ways to connect with your business. This prevents them from feeling stranded and reduces the chances of them seeking help from a competitor."
+        },
+        {
+          "type": "h4",
+          "text": "Guide customers to other communication channels."
+        },
+        {
+          "type": "p",
+          "text": "Imagine a customer trying to access your services only to find a blank screen. Their first thought might be panic or annoyance. Your AI receptionist steps in, offering a calm and clear message, directing them to active channels. This immediate redirection is crucial for retaining their business."
+        },
+        {
+          "type": "p",
+          "text": "The AI can politely inform callers about the website issue and then offer specific, actionable alternatives. This could be a direct phone number for urgent inquiries or an email address for less time-sensitive matters. Social media platforms also provide an excellent avenue for real-time updates and direct messaging."
+        },
+        {
+          "type": "h3",
+          "text": "Offering FAQs and Self-Service Options"
+        },
+        {
+          "type": "p",
+          "text": "Many customer inquiries during downtime are about common issues or general information. An AI receptionist can brilliantly tackle these questions, providing instant answers and reducing the load on your human staff. This empowers customers to find solutions independently, even when your primary digital storefront is unavailable."
+        },
+        {
+          "type": "h4",
+          "text": "Answer common questions about the outage or services."
+        },
+        {
+          "type": "p",
+          "text": "Your AI can be pre-programmed with a comprehensive set of FAQs related to potential outages. This includes questions like, 'Is my order still being processed?' or 'How long will the website be down?' By providing these answers immediately, you eliminate customer frustration and demonstrate transparency."
+        },
+        {
+          "type": "p",
+          "text": "Consider this: a recent study by Zendesk showed that 69% of customers prefer to resolve issues on their own. An AI receptionist provides that self-service capability even during an unforeseen event. This is a powerful way to manage expectations and keep customers happy, proving how an AI receptionist can handle unexpected website downtime effectively."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Explain the general nature of the issue (e.g., 'technical difficulties').",
+            "Address common concerns like order status or service availability.",
+            "Direct customers to a temporary status page if one exists.",
+            "Offer workarounds for critical tasks if possible.",
+            "Reassure customers that your team is actively working on a fix."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Setting Expectations for Resolution Times"
+        },
+        {
+          "type": "p",
+          "text": "Uncertainty is a major cause of customer dissatisfaction during downtime. Your AI receptionist can play a vital role in managing this by communicating realistic timeframes for resolution. This doesn't mean giving exact minutes, but rather providing a truthful and reassuring outlook."
+        },
+        {
+          "type": "h4",
+          "text": "Communicate realistic timeframes for website restoration."
+        },
+        {
+          "type": "p",
+          "text": "It's far better to say, 'We expect the website to be back online within the next few hours,' than to offer no information at all. The AI can be updated in real-time by your technical team, allowing it to deliver the most current information. This transparency builds trust and prevents customers from constantly checking back in frustration."
+        },
+        {
+          "type": "p",
+          "text": "Avoid over-promising and under-delivering. An AI receptionist can be programmed to provide conservative estimates, ensuring that when the website does come back online, it feels like a pleasant surprise rather than a delayed expectation. This careful management of expectations is a hallmark of excellent customer service, demonstrating the true value of how an AI receptionist can handle unexpected website downtime."
+        },
+        {
+          "type": "h2",
+          "text": "Can an AI Receptionist Route Critical Inquiries During an Outage?"
+        },
+        {
+          "type": "p",
+          "text": "Imagine your website suddenly goes down. Panic sets in, right? Your customers are trying to reach you, and every minute counts. This is where an AI receptionist becomes your secret weapon, especially when considering how an AI receptionist can handle unexpected website downtime."
+        },
+        {
+          "type": "p",
+          "text": "It's not just about answering calls, it's about intelligent triage. An AI receptionist can act as your digital gatekeeper, ensuring that even during a crisis, your most important customer needs are met."
+        },
+        {
+          "type": "h3",
+          "text": "Prioritizing Urgent Customer Needs"
+        },
+        {
+          "type": "p",
+          "text": "When your website is down, every customer interaction feels urgent. But some are more critical than others. An AI receptionist uses smart technology to figure out who needs help most."
+        },
+        {
+          "type": "p",
+          "text": "It can quickly identify keywords and phrases that signal a serious problem, like 'payment failed' or 'site not working.' This allows it to move these crucial inquiries to the front of the line."
+        },
+        {
+          "type": "h4",
+          "text": "Identify and prioritize urgent customer issues."
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist is always on, constantly listening for distress signals. It's programmed to understand the difference between a simple question and a potential crisis for your customer."
+        },
+        {
+          "type": "p",
+          "text": "This means that even if your main systems are offline, your most valuable customers, those facing immediate issues, won't be left in the dark. They'll get an instant response and clear next steps."
+        },
+        {
+          "type": "h3",
+          "text": "Escalating to Human Support Teams"
+        },
+        {
+          "type": "p",
+          "text": "While an AI is powerful, some problems need a human touch. Your AI receptionist knows its limits and won't try to solve complex issues beyond its programming. Instead, it knows exactly when to bring in your live agents."
+        },
+        {
+          "type": "p",
+          "text": "This seamless handoff means your customers never feel stuck or frustrated. They get the right help, from the right source, at the right time. This is crucial for maintaining customer trust during stressful events."
+        },
+        {
+          "type": "h4",
+          "text": "Seamlessly transfer complex problems to live agents."
+        },
+        {
+          "type": "p",
+          "text": "Imagine an AI receptionist collecting all the necessary details about a customer's problem. It then passes this information directly to a human agent, who can jump in without asking the customer to repeat everything."
+        },
+        {
+          "type": "p",
+          "text": "This efficiency is a game-changer. Studies show that 75% of customers prefer speaking to a human when dealing with complex issues. Your AI ensures they get there quickly and smoothly."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "The AI collects initial problem details, saving time.",
+            "It provides context to human agents before the transfer.",
+            "Customers avoid repeating themselves, reducing frustration.",
+            "Agents can focus on solving, not gathering basic info."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Filtering Spam and Non-Critical Messages"
+        },
+        {
+          "type": "p",
+          "text": "During an outage, your human support team is already under pressure. The last thing they need is to wade through spam or minor questions. This is where your AI receptionist truly shines, protecting your team's valuable time."
+        },
+        {
+          "type": "p",
+          "text": "It acts as a digital bouncer, keeping out the noise so your team can focus on what matters most. This prevents burnout and ensures critical inquiries get the attention they deserve."
+        },
+        {
+          "type": "h4",
+          "text": "Prevent non-essential inquiries from overwhelming human staff."
+        },
+        {
+          "type": "p",
+          "text": "Think about all the junk mail or simple questions that don't need immediate human intervention. Your AI can handle these, providing automated answers or directing them to self-service resources."
+        },
+        {
+          "type": "p",
+          "text": "This frees up your human agents to tackle the truly difficult cases. Without this filtering, your team would quickly become swamped, leading to longer wait times and frustrated customers. Don't let a website outage turn into a customer service nightmare."
+        },
+        {
+          "type": "h2",
+          "text": "What Post-Downtime Functions Can an AI Receptionist Perform?"
+        },
+        {
+          "type": "p",
+          "text": "Unexpected website downtime can feel like a disaster for your business. It impacts your reputation and can cost you serious money. But what happens after your site is back up and running? An AI receptionist doesn't just manage the immediate crisis, it also handles crucial post-downtime tasks that protect your brand and improve your future resilience."
+        },
+        {
+          "type": "p",
+          "text": "This powerful tool ensures your customers feel valued and informed, even after a disruption. It transforms a negative experience into an opportunity for growth and stronger customer relationships. Ignoring these post-downtime steps is a dangerous gamble, risking customer churn and lost revenue."
+        },
+        {
+          "type": "h3",
+          "text": "Automated Follow-up and Resolution Notifications"
+        },
+        {
+          "type": "p",
+          "text": "Once your website is back online, proactive communication is absolutely vital. Your customers need to know the issue is resolved and that they can resume their activities. An AI receptionist excels at this, instantly reaching out to everyone affected."
+        },
+        {
+          "type": "p",
+          "text": "Imagine the relief your customers feel when they receive an immediate update, rather than having to constantly check your site. This simple act builds immense trust and shows you truly care about their experience."
+        },
+        {
+          "type": "h4",
+          "text": "Notify customers once the website is back online."
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist can send automated emails, SMS messages, or even push notifications to alert customers. This ensures everyone is aware that service has been restored, minimizing frustration and preventing further attempts to access a down site. It's a critical step in managing expectations and restoring normalcy."
+        },
+        {
+          "type": "p",
+          "text": "This proactive approach prevents a potential avalanche of inquiries asking if the site is working yet. It frees up your team to focus on other important tasks, demonstrating incredible efficiency. Without this, you risk angering customers who are left in the dark."
+        },
+        {
+          "type": "h3",
+          "text": "Gathering Customer Feedback on the Experience"
+        },
+        {
+          "type": "p",
+          "text": "Every incident, even a negative one, holds valuable lessons. An AI receptionist can strategically collect feedback from your customers about their downtime experience. This isn't just about apologies, it's about understanding and improving."
+        },
+        {
+          "type": "p",
+          "text": "This feedback loop is a goldmine. It helps you pinpoint exactly where things went wrong from a user perspective. Ignoring this feedback means you're flying blind, destined to repeat past mistakes."
+        },
+        {
+          "type": "h4",
+          "text": "Collect feedback to improve future incident responses."
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist can deploy short, targeted surveys immediately after the resolution notification. These surveys can ask about communication clarity, the impact of the downtime, and suggestions for improvement. This direct insight is incredibly powerful."
+        },
+        {
+          "type": "p",
+          "text": "For example, a survey might reveal that 30% of your customers found the initial downtime notification unclear. This crucial data allows you to refine your communication strategy for future events, turning a bad experience into a learning opportunity that strengthens your brand. You're not just reacting, you're evolving."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Ask about the customer's overall satisfaction with the handling of the downtime.",
+            "Inquire if they received timely and clear communication.",
+            "Gather suggestions on how your business could have better supported them.",
+            "Identify specific pain points they encountered during the outage."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Analyzing Downtime Data for Future Prevention"
+        },
+        {
+          "type": "p",
+          "text": "An AI receptionist isn't just a communicator, it's a data powerhouse. It logs every interaction, every notification, and every piece of feedback during and after downtime. This data is invaluable for preventing future outages."
+        },
+        {
+          "type": "p",
+          "text": "Leveraging this data is how a smart web design agency helps you move from reactive to proactive. Without this analysis, you're simply waiting for the next crisis to strike, which is a terrifying thought for any business owner."
+        },
+        {
+          "type": "h4",
+          "text": "Provide data insights into outage duration and impact."
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist can compile comprehensive reports on the duration of the outage, the number of customers affected, and the types of queries received. This detailed information paints a clear picture of the incident's true scope and impact. This intelligence is critical for"
+        },
+        {
+          "type": "p",
+          "text": "This data can reveal patterns, such as certain times of day when outages are more likely, or specific website functions that are most vulnerable. This insight empowers your IT and web design teams to implement targeted preventative measures. Understanding 'how can an AI receptionist handle unexpected website downtime?' goes beyond just customer-facing tasks, it extends to deep operational intelligence that saves you from future headaches and lost profits."
+        },
+        {
+          "type": "h2",
+          "text": "How Do You Integrate an AI Receptionist into Your Existing Systems?"
+        },
+        {
+          "type": "p",
+          "text": "Bringing an AI receptionist into your business isn't just about adding a new tool. It's about seamlessly weaving it into the fabric of your operations. This isn't a standalone gadget, but a powerful extension of your team, ready to elevate every customer interaction. Imagine the lost opportunities, the frustrated customers, if your new AI can't talk to your existing systems. That's a nightmare you can easily avoid."
+        },
+        {
+          "type": "h3",
+          "text": "Choosing the Right AI Platform and Provider"
+        },
+        {
+          "type": "p",
+          "text": "The first critical step is picking an AI solution that plays well with your current tech. Don't fall for shiny objects that promise the moon but can't integrate with your essential software. You need an AI receptionist that's a perfect fit, not a square peg in a round hole."
+        },
+        {
+          "type": "p",
+          "text": "Think about your existing website platform, your email marketing tools, and any other customer-facing systems. An incompatible AI will create more headaches than it solves, leaving you with disjointed processes and unhappy customers. The wrong choice could cost you valuable time and resources."
+        },
+        {
+          "type": "p",
+          "text": "When you choose wisely, your AI receptionist becomes an invaluable asset. It acts as a force multiplier, enhancing your team's efficiency rather than adding complexity. This strategic decision sets the stage for remarkable growth."
+        },
+        {
+          "type": "h3",
+          "text": "Seamless Integration with CRM and Communication Tools"
+        },
+        {
+          "type": "p",
+          "text": "Once you've chosen your AI, the next crucial step is connecting it to your existing customer relationship management (CRM) system. Your CRM holds all your customer data, their history, and their preferences. If your AI can't access this, it's operating blind, leading to generic responses and missed opportunities."
+        },
+        {
+          "type": "p",
+          "text": "Imagine a potential client asking about a service they previously inquired about. Without CRM integration, your AI might treat them as a brand new lead, making them feel unheard. This can seriously damage their perception of your professionalism and responsiveness."
+        },
+        {
+          "type": "h4",
+          "text": "Example: Integrating with Salesforce for lead capture"
+        },
+        {
+          "type": "p",
+          "text": "Consider integrating your AI receptionist with a powerful CRM like Salesforce. When a new visitor lands on your site and interacts with the AI, their details can be automatically captured and logged as a new lead in Salesforce. This ensures no lead falls through the cracks, even if your AI receptionist is handling inquiries about how can an AI receptionist handle unexpected website downtime?."
+        },
+        {
+          "type": "p",
+          "text": "This integration means your sales team gets real-time updates and can follow up immediately. Without it, valuable leads could vanish, costing your business significant revenue. Studies show that companies that respond to leads within 5 minutes are 9 times more likely to convert them, a massive advantage gained through seamless integration."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Automatically log new inquiries as leads in your CRM.",
+            "Update customer records with AI interaction summaries.",
+            "Trigger follow-up tasks for your sales team.",
+            "Provide personalized responses based on past customer interactions.",
+            "Ensure consistent communication across all touchpoints."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Customizing AI Responses for Your Brand Voice"
+        },
+        {
+          "type": "p",
+          "text": "Finally, you must tailor your AI's language and tone to perfectly match your company's unique brand voice. Your AI receptionist is often the first point of contact for many customers. If its responses sound robotic or off-brand, it can create a jarring and impersonal experience."
+        },
+        {
+          "type": "p",
+          "text": "Think about the consequences of a generic AI. It could dilute your brand identity, making your company seem less authentic and approachable. You've worked hard to build your brand, don't let an uncustomized AI undermine that effort."
+        },
+        {
+          "type": "p",
+          "text": "Invest time in training your AI with your specific terminology, common questions, and desired communication style. This ensures every interaction reinforces your brand, building trust and strengthening customer relationships. A well-tuned AI becomes an authentic ambassador for your business, even when answering complex questions like how can an AI receptionist handle unexpected website downtime?."
+        },
+        {
+          "type": "h2",
+          "text": "Frequently Asked Questions"
+        },
+        {
+          "type": "h3",
+          "text": "Can an AI receptionist prevent website downtime?"
+        },
+        {
+          "type": "p",
+          "text": "While an AI receptionist can't directly prevent website downtime, it can significantly reduce the *impact* on your customers. Imagine your site goes down: instead of a dead page, your AI can instantly inform visitors about the issue and offer alternative solutions, like a temporary contact form or a link to your social media. This keeps customers engaged and prevents frustration, turning a potential disaster into a minor inconvenience."
+        },
+        {
+          "type": "h3",
+          "text": "What kind of messages can an AI receptionist send during an outage?"
+        },
+        {
+          "type": "p",
+          "text": "If your systems crash, your AI receptionist can send proactive updates to keep customers informed. For example, it can dispatch an email or SMS stating, \"We're experiencing technical difficulties and are working to resolve them. We anticipate service restoration within 2 hours.\" This manages expectations and reduces inbound calls. You can also program it to offer immediate solutions, like directing customers to a temporary support portal or a knowledge base article."
+        },
+        {
+          "type": "h3",
+          "text": "Is an AI receptionist expensive to implement for downtime management?"
+        },
+        {
+          "type": "p",
+          "text": "Not necessarily! While some AI solutions can be pricey, many virtual receptionists offer affordable subscription models. For example, you could pay as little as $50/month for a service that handles overflow calls, preventing lost leads during peak hours. This small investment can save you significantly more by ensuring no customer goes unanswered, boosting your bottom line. Look for providers with tiered pricing based on call volume."
+        },
+        {
+          "type": "h3",
+          "text": "How quickly can an AI receptionist respond to website downtime?"
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist can react to website downtime almost instantly. Unlike a human, it doesn't need to be alerted or log in. It can automatically detect the issue and, within seconds, activate a pre-programmed message. For example, it could direct visitors to a temporary status page or offer alternative contact methods, like a direct phone number, minimizing user frustration immediately. This proactive approach ensures your customers are always informed, even when things go wrong."
+        },
+        {
+          "type": "h3",
+          "text": "Can an AI receptionist handle multiple languages during an outage?"
+        },
+        {
+          "type": "p",
+          "text": "Yes, your AI receptionist can absolutely handle multiple languages even during an outage! It's pre-programmed with various languages, so it doesn't rely on an active internet connection to switch. For example, if a Spanish-speaking customer calls during an outage, your AI can still greet them in Spanish and offer basic assistance like providing a pre-recorded message about the outage. This ensures your customers always feel understood, regardless of the situation."
+        },
+        {
+          "type": "h3",
+          "text": "What data does an AI receptionist collect during downtime?"
+        },
+        {
+          "type": "p",
+          "text": "During downtime, your AI receptionist collects valuable data to improve future interactions. Think of it as learning. For example, it tracks unanswered calls, common caller questions, and how long callers wait. This helps identify areas for improvement, like needing better FAQs or more robust call routing. You can then use this data to refine your AI's responses and ensure smoother operations."
+        },
+        {
+          "type": "h3",
+          "text": "Is it better to use an AI receptionist or a human for downtime communication?"
+        },
+        {
+          "type": "p",
+          "text": "For downtime communication, an AI receptionist is often better. It provides instant, consistent responses 24/7, without human error or fatigue. For example, an AI can immediately inform callers about an outage and estimated recovery time, like \"Our systems are currently down for maintenance; we expect to be back online by 3 PM EST.\" This frees your human staff to focus on resolving the issue, not answering repetitive calls."
+        },
+        {
+          "type": "h3",
+          "text": "How does an AI receptionist know when the website is back online?"
+        },
+        {
+          "type": "p",
+          "text": "Your AI receptionist, like a diligent employee, constantly pings your website. It's not just guessing; it's actively checking. Think of it like a quick knock on the door every few seconds. If it gets a response, say, an HTTP status code of 200, it knows you're back in business. This means your virtual assistant can seamlessly resume normal operations, ensuring no calls are missed due to downtime."
+        },
+        {
+          "type": "pEmphasis",
+          "text": "Don't let unexpected downtime turn into lost customers and reputation damage. Implement an AI receptionist today and ensure your business never misses a beat."
+        },
+        {
+          "type": "articleIndex",
+          "headline": "More Articles You Might Find Useful",
+          "links": [
+            {
+              "text": "How Can an AI Receptionist Handle Website Design Project Inquiries After Hours?",
+              "href": "https://stellanovus.io/blog/ai-receptionist-website-inquiries-after-hours"
+            },
+            {
+              "text": "How Can an AI Receptionist Handle Website Design Project Inquiries After Hours?",
+              "href": "https://stellanovus.io/blog/ai-receptionist-after-hours-web-design"
+            },
+            {
+              "text": "How Can an AI Receptionist Improve Website Lead Conversion for Small Businesses?",
+              "href": "https://stellanovus.io/blog/ai-receptionist-lead-conversion"
+            },
+            {
+              "text": "How Can an AI Receptionist Improve Client Experience for Small Law Firms?",
+              "href": "https://stellanovus.io/blog/ai-receptionist-improve-client-experience"
+            },
+            {
+              "text": "Boost Customer Service with an AI Receptionist",
+              "href": "https://stellanovus.io/blog/ai-receptionist-improve-agency-service"
+            },
+            {
+              "text": "Boost Client Communication with AI Receptionist",
+              "href": "https://stellanovus.io/blog/ai-receptionist-web-design-agency"
+            }
+          ]
+        },
+        {
+          "type": "ctaButton",
+          "text": "Start My Free Trial",
+          "href": "https://stellanovus.io/contact"
+        }
+      ]
+    }
+  ]
+}
